@@ -16,7 +16,6 @@
   <img align="center" alt="Java" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/845305073907400714/915078891725537340/download20211102001431.png?width=676&height=676">
 </div>
   
   ##
