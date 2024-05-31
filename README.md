@@ -1,4 +1,4 @@
-### Hi, my name is Adriana and I'm a Fullstack developer 👋
+### Hi, my name is Adriana and I'm a Frontend developer 👋
 
 <div align="center">
   <a href="https://github.com/adiefco">
